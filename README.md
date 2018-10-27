@@ -16,4 +16,3 @@
 
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Truba.jpg)
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Defect1.PNG)
-![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Defect2.PNG)
