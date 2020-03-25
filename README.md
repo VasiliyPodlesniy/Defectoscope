@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MagnitometricDefectscope
 Печатная плата магнитометрического дефектоскопа для обнаружения дефектов в трубопроводе.
 Устанавливается на беспилотный летательный аппарат.
@@ -17,3 +18,6 @@
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Truba.jpg)
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Defect1.PNG)
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Defect2.PNG)
+=======
+# Defectoscope
+>>>>>>> dde833d12281a09f56ebbf88070d25484e1f0ea7
