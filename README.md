@@ -1,4 +1,4 @@
-# MagnitometricDefectscope
+# MagnitometricDefectoscope
 The PCB of a magnetometric flaw detector for detecting defects in a pipeline.
 Installed on drones and unmanned aerial vehicles.
 
