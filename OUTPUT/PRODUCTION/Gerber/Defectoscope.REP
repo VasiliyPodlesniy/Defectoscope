@@ -1,0 +1,222 @@
+*************************************************************
+FileName = Defectoscope.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 1
+      File : Defectoscope.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Defectoscope.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Defectoscope.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Defectoscope.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Signal Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D20
+    D21
+    D22
+    D24
+    D26
+    D27
+    D28
+    D29
+    D30
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Defectoscope.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Signal Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Defectoscope.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Signal Layer
+      File : Defectoscope.GBL
+
+    Adding Layer      : Bottom Signal Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D14
+    D31
+    D32
+    D33
+    D35
+    D36
+    D37
+    D39
+    D40
+    D41
+    D43
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Ground Layer
+      File : Defectoscope.G2
+
+    Adding Layer      : Ground Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D31
+    D46
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Power Layer
+      File : Defectoscope.G1
+
+    Adding Layer      : Power Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D46
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Signal Layer
+      File : Defectoscope.GTL
+
+    Adding Layer      : Top Signal Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D14
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+

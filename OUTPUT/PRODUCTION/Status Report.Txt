@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Defectoscope.PcbDoc]
+   Generated File[Defectoscope.TXT]
+   Generated File[Defectoscope.LDP]
+   Generated File[Defectoscope.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:26:06 PM On 8/3/2022
