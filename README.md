@@ -1,18 +1,11 @@
 # MagnitometricDefectscope
-Печатная плата магнитометрического дефектоскопа для обнаружения дефектов в трубопроводе.
-Устанавливается на беспилотный летательный аппарат.
+The PCB of a magnetometric flaw detector for detecting defects in a pipeline.
+Installed on drones and unmanned aerial vehicles.
 
-Заказчик: Уральский государственный технический университет.
-
-Функционал изделия:
-- управление двумя двигателями постоянного тока;
-- управление восьмью сервоприводами;
-- изерение общего потребления(ток и напряжение);
-- обработка сигналов микроконтроллером ATMega328;
-- связь с контроллером верхнего уровня через интерфейс I2C;
-- подключение датчиков по UART;
-- дистанционное управление с джойстика;
-- генерация звука на динамик.
+Technical specifications:
+- input power supply 5 V;
+- clock frequency 1 MHz;
+- measurement of accumulated energy in a capacitor.
 
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Truba.jpg)
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Defect.PNG)
